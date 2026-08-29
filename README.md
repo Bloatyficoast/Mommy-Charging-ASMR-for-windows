@@ -15,7 +15,7 @@ Clone it with Git:Bashgit clone https://github.com/Bloatyficoast/Mommy-Charging-
 
 3. Open the folder
 Open Command Prompt and go into the project folder:
-Bashcd "C:\Users\Ryan\Downloads\Mommy Voice Charging!!"
+Bashcd "C:\Users\YOUR_USER\Downloads\Mommy Voice Charging!!"
 (Change the path if your folder is somewhere else)
 4. Install required packages
 Bashpip install -r requirements.txt
