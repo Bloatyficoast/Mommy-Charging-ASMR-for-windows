@@ -1,4 +1,4 @@
-##How to Install & Run – Mommy Charging ASMR
+## How to Install & Run – Mommy Charging ASMR
 1. Install Python
 
 Go to https://www.python.org/downloads/
