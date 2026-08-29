@@ -1,7 +1,3 @@
-# Battery / Charger Power Indicator (Windows)
-
-System-tray app that shows battery percentage, and charging wattage when available. Plays your custom MP3 voice clips when you plug in, unplug, or when charging power changes significantly.
-
 ## Setup
 
 1. Install Python 3.10+ from python.org (tick “Add to PATH”).
